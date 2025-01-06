@@ -23,7 +23,7 @@
 ---
 
 ## 📬 Connect with Me
-- 🌐 [LinkedIn](www.linkedin.com/in/contactaryankumar108)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/contactaryankumar108/)  
 - ✉ contactaryankumar108@gmail.com
 
 ---
