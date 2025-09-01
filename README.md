@@ -18,7 +18,7 @@
 ## 🌟 Current Focus
 - Learning Java DSA and System Design
 - Creating beginner-friendly web projects
-- Contributing to open-source repositories
+- Contributing to open-source repositories.
 
 ---
 
