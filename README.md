@@ -11,7 +11,7 @@
 ## 🔧 Skills
 - *Languages:* C, Java (learning), HTML, CSS, Javascript
 - *Tools:* Git, Visual Studio Code
-- *Platforms:* GitHub
+- *Platforms:* GitHub.
 
 ---
 
