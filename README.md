@@ -1,31 +1,36 @@
-# Hi there! 👋 I'm Aryan Kumar
+# 👋 Hi, I'm Aryan Kumar  
+
+💻 **B.Tech CSE Student (2027)** | 🌱 Passionate about **Programming, Cybersecurity & Data Science** | 🚀 Exploring **Web Development, Java, and DFIR**
+
+---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE Student | Aspiring Software Developer
-- 🌱 Learning *Java* and improving my skills in *CSS* and *Javascript*
-- 💻 Regularly posting code and exploring open-source contributions
-- 🛠 Passionate about problem-solving and building real-world projects
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** 
+- 💡 Interested in **Cybersecurity, Digital Forensics, Data Science, and Full-Stack Development**  
+- 🔭 Currently learning **Java (DSA) & Web Development**  
+- 🛠️ Skills: **C, Java, HTML, CSS, JavaScript, Linux, Git/GitHub**  
+- 🌱 Exploring **Data Science Roadmap** to build strong future career prospects  
 
 ---
 
-## 🔧 Skills
-- *Languages:* C, Java (learning), HTML, CSS, Javascript
-- *Tools:* Git, Visual Studio Code
-- *Platforms:* GitHub.
+## 🛠️ Tech Stack
+- **Languages:** C, Java, Python 
+- **Web:** HTML, CSS, JavaScript, Bootstrap  
+- **Cybersecurity:** Linux OS, Ethical Hacking, Autopsy (Forensics)  
+- **Tools:** Git, GitHub, VS Code  
+- **Other:** Data Structures, Algorithms, OOP  
 
 ---
 
-## 🌟 Current Focus
-- Learning Java DSA and System Design
-- Creating beginner-friendly web projects
-- Contributing to open-source repositories.
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKumar-108&layout=compact&theme=tokyonight)  
 
 ---
 
-## 📬 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/contactaryankumar108/)  
-- ✉ contactaryankumar108@gmail.com
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/contactaryankumar108/)   
+- 📧 [Mail](https://mail.google.com/mail/u/1/#inbox?compose=CllgCHrfTKBPwLwgCXMSkkDWQSPwTwDJnbFwMMLJCRtFrhCMRfTGFWJtwsbZCtdFdvNlFQzxwDB)  
 
 ---
 
-> "Stay curious, keep learning, and keep coding!"
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
