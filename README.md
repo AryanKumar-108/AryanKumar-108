@@ -35,4 +35,4 @@
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
+⭐️ **Thanks for visiting my profile! Feel free to check out my repositories and connect with me.**
