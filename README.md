@@ -16,9 +16,7 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-<br>
----
+<hr>
 
 ## 🛠️ Tech Stack
 - **Languages:** C, Java, Python 
@@ -33,7 +31,12 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=AryanKumar-108&label=Profile%20views&color=0e75b6&style=flat"/>
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKumar-108&layout=compact&theme=tokyonight)  
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AryanKumar-108&theme=dark&hide_border=false)
 
 ---
