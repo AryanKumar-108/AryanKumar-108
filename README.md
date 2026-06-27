@@ -1,17 +1,15 @@
 <h1 align="center"> Hi, I'm Aryan Kumar  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px"></h1>
 
-💻 **B.Tech CSE Student (2027)** | 🌱 Passionate about **Programming, Cybersecurity & Data Science** | 🚀 Exploring **Web Development, DSA and DFIR**
+💻 **B.Tech CSE | Full Stack MERN Developer | Building Scalable & User-Centric Web Applications | Open to Full Stack & SDE Internships | Exploring Emerging Technologies**
 
 --- 
 <img align="right" alt="Aryan's Image" width="300" src="https://github.com/AryanKumar-108/AryanKumar-108/blob/main/developer.gif" />
 
  **🚀 About Me :**
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** 
-- 💡 Interested in **Cybersecurity, Digital Forensics, DSA, Data Science, and Full-Stack Development**  
-- 🔭 Currently learning **Java (DSA) & Web Development**  
-- 🌱 Exploring **Data Science** to build strong future career prospects
+- 💡 Interested in **Cybersecurity, Digital Forensics, DSA, and Full-Stack Development**  
+- 🔭 Currently learning **Java (DSA)**  
 - 📫 How to reach me: contactaryankumar108@gmail.com
-- ⚡ Fun fact: I Love Tech and Tech Love Me
 ---
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -20,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** C, Java, Python 
-- **Web:** HTML, CSS, JavaScript, Bootstrap  
+- **Web:** HTML, CSS, JavaScript, Bootstrap, React.js, Node.js, Express.js, MongoDB
 - **Cybersecurity:** Linux OS, Ethical Hacking, Autopsy (Forensics)  
 - **Tools:** Git, GitHub, VS Code  
 - **Other:** Data Structures, Algorithms, OOP
@@ -53,7 +51,7 @@
 ---
 
 ## 🌐 Connect With Me
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>](https://www.linkedin.com/in/contactaryankumar108/) &nbsp;&nbsp;&nbsp;[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/>](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwQLwNMhVtbLncVSLGdTQpfnGMLjhzZBdrmxNCmgRCTgSfMPpCkQkklPfSrHpwTwVrTsfMV) &nbsp;&nbsp;&nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>](https://www.linkedin.com/in/connectwitharyan108/) &nbsp;&nbsp;&nbsp;[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/>](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwQLwNMhVtbLncVSLGdTQpfnGMLjhzZBdrmxNCmgRCTgSfMPpCkQkklPfSrHpwTwVrTsfMV) &nbsp;&nbsp;&nbsp; 
 
 ---
 
